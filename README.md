@@ -1,7 +1,4 @@
-# QRCode
-Here's a sample `README.md` for a **QR Code Generator Project** that you can use or adapt for your GitHub repository:
 
----
 
 # 📱 QR Code Generator
 
