@@ -25,14 +25,3 @@ A simple and efficient QR Code Generator built using **Python** (or any other st
 
 
 
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to open an issue to suggest improvements.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Would you like the `README` to match a **GUI** or **web app** version too? I can customize it for that.
